@@ -1,0 +1,75 @@
+///Orig Source: http://rjzdqt4z3z3xo73h.onion/ - Deobfuscated Kinda ///
+
+///Located a "Deobfuscated" Later version of the Code////
+
+/** @type {string} */
+var _0OO = "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";
+/**
+ * @param {string} input
+ * @return {?}
+ */
+function I00(input) {
+  /** @type {string} */
+  var excludes = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=";
+  var lo;
+  var surrogate2;
+  var o3;
+  var o1;
+  var o2;
+  var h3;
+  var h4;
+  var bits;
+  /** @type {number} */
+  var i = 0;
+  /** @type {string} */
+  var optsData = "";
+  do {
+    /** @type {number} */
+    o1 = excludes.indexOf(input.charAt(i++));
+    /** @type {number} */
+    o2 = excludes.indexOf(input.charAt(i++));
+    /** @type {number} */
+    h3 = excludes.indexOf(input.charAt(i++));
+    /** @type {number} */
+    h4 = excludes.indexOf(input.charAt(i++));
+    /** @type {number} */
+    bits = o1 << 18 | o2 << 12 | h3 << 6 | h4;
+    /** @type {number} */
+    lo = bits >> 16 & 255;
+    /** @type {number} */
+    surrogate2 = bits >> 8 & 255;
+    /** @type {number} */
+    o3 = bits & 255;
+    if (h3 == 64) {
+      optsData += String.fromCharCode(lo);
+    } else {
+      if (h4 == 64) {
+        optsData += String.fromCharCode(lo, surrogate2);
+      } else {
+        optsData += String.fromCharCode(lo, surrogate2, o3);
+      }
+    }
+  } while (i < input.length);
+  return optsData;
+}
+/**
+ * @param {string} tail
+ * @return {?}
+ */
+function O11(tail) {
+  /** @type {string} */
+  var ret = "";
+  /** @type {number} */
+  var length = 0;
+  /** @type {number} */
+  length = tail.length - 1;
+  for (;length >= 0;length--) {
+    ret += tail.charAt(length);
+  }
+  return ret;
+}
+;
+
+
+
+//// More notes Soon-
